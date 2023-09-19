@@ -320,6 +320,10 @@ section {
     margin: auto 0;
 }
 
+.text-container{
+    padding: 20px;
+}
+
 /* experience section */
 #experience {
     position: relative;
